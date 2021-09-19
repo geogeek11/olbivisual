@@ -1,0 +1,25 @@
+{
+    "visual": {
+        "name": "olbivisual",
+        "displayName": "olbivisual",
+        "guid": "olVisual",
+        "visualClassName": "Visual",
+        "version": "1.0.0",
+        "description": "Example of the use of openlayers in a custom Power BI Visual",
+        "supportUrl": "https://github.com/geogeek11/olbivisual",
+        "gitHubUrl": "https://github.com/geogeek11/olbivisual"
+    },
+    "apiVersion": "3.8.0",
+    "author": {
+        "name": "Abdelilah ADIBA",
+        "email": "a.abdelilah@ifad.org"
+    },
+    "assets": {
+        "icon": "assets/icon.png"
+    },
+    "externalJS": null,
+    "style": "style/visual.less",
+    "capabilities": "capabilities.json",
+    "dependencies": null,
+    "stringResources": []
+}
